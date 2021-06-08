@@ -1,5 +1,5 @@
 
-### The data provided contains hospital's general info, customer ratings, readmissions and deaths info, quality of care info, complications info.
+### The data provided contains hospital's general info, customer ratings, readmissions & deaths info, quality of care info and complications info, among others.
 ### The objective is to identify  key features which negatively affect hospital’s overall rating
 
 
