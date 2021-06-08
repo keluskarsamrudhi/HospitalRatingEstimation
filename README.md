@@ -5,12 +5,12 @@
 
 ### Best Models: 
 1. Linear Regression (Ridge)
-* Accuracy on Train set: 0.92
-* FAccuracy on Test set: 0.90
+  * Accuracy on Train set: 0.92
+  * FAccuracy on Test set: 0.90
 
 2. Shallow Neural Network Model - Classification and Regression combined 
-* Accuracy on Train set: 0.97
-* FAccuracy on Test set: 0.90
+  * Accuracy on Train set: 0.97
+  * FAccuracy on Test set: 0.90
 
 ### Files in this repository:
 * HospitalRatingEstimation_EDA.ipynb - Exploratory Data Analysis Notebook
