@@ -1,6 +1,6 @@
 
-### The data provided contains hospital's general info, customer ratings, readmissions & deaths info, quality of care info and complications info, among others.
-### The objective is to identify  key features which which affect the hospital’s overall rating.
+### The data provided contains hospital's general info, customer ratings, readmissions & deaths info, quality of care info and complications info, among others
+### The objective is to identify  key features which which affect the hospital’s overall rating
 
 ### Best Models: 
 1. Linear Regression (Ridge)
