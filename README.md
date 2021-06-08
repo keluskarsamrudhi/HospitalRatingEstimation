@@ -12,7 +12,7 @@
   * FAccuracy on Test set: 0.90
 
 ### Files in this repository:
-* HospitalRatingEstimation_EDA.ipynb - Exploratory Data Analysis Notebook
-* HospitalRatingEstimation_Modeling.ipynb - Modeling Notebook
-* HospitalRatingEstimaton_Presentation.pdf - Project Presentation 
-* https://www.cms.gov/medicare/quality-initiatives-patient-assessment-instruments/hospitalqualityinits/hospitalcompare - Data link
+* Exploratory Data Analysis Notebook - HospitalRatingEstimation_EDA.ipynb
+* Modeling Notebook - HospitalRatingEstimation_Modeling.ipynb
+* Project Presentation - HospitalRatingEstimaton_Presentation.pdf 
+* Data link - https://www.cms.gov/medicare/quality-initiatives-patient-assessment-instruments/hospitalqualityinits/hospitalcompare
